@@ -59,4 +59,4 @@ async def run_schedule():
         await asyncio.sleep(60)  # Check every minute
 
 # Replace 'YOUR_BOT_TOKEN' with your actual bot token
-bot.run("MTMwMDc4MjU4ODU0MTE0NTExOQ.GDPjIW.99qteikt9ffcf9QP9wwrbcM74utgo7fDRoeR2o")
+bot.run("MTMwMDc4MjU4ODU0MTE0NTExOQ.GmJI1z.Z9xB2haYSW5aucZrKSXehE7_RVayv_BtXRTiVU")
